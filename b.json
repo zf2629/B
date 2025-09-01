@@ -4,8 +4,8 @@
 	//"spider": "./jar/custom_spider.jar",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 	"sites": [
-{"key": "Bili2","name": "自己用","type": 3,"api": "csp_Bili2","searchable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/zf2629/B/refs/heads/main/b/zf.json"},
+{"key": "b01","name": "自己用","type": 3,"api": "csp_Bili2","searchable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/zf2629/B/refs/heads/main/b/zf.json"},
 
-{"key": "Bili2","name": "宝宝趣学","type": 3,"api": "csp_Bili2","searchable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/zf2629/B/refs/heads/main/b/zf2629.json"}
+{"key": "b02","name": "宝宝趣学","type": 3,"api": "csp_Bili2","searchable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/zf2629/B/refs/heads/main/b/zf2629.json"}
 	]
 }
