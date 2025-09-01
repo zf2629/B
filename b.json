@@ -1,5 +1,5 @@
 {
-	"spider": "https://ghproxy.net/https://github.com/zf2629/B/raw/refs/heads/main/jar/custom_spider.jar",
+	"spider": "https://github.com/zf2629/B/raw/refs/heads/main/jar/custom_spider.jar",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 	"sites": [
 {"key": "Bili2","name": "宝宝趣学","type": 3,"api": "csp_Bili2","searchable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wxrjck/etqm/refs/heads/main/bb.json"}
