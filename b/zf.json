@@ -1,16 +1,16 @@
 {
   "classNameList": [
  
-    "MT管理器",
+    "学习",
     "音乐舞蹈"
   ],
   "VideoClassInfoList": {
     "MT管理器": [
-
+ 
     {
-        "title": "ZF2629",
-        "picUrl": "https://i1.hdslb.site/bfs/archive/a0becf783d5d48c7d3ff7931f68b11e66a07d52d.jpg@672w_380h_!web-video-rcmd-cover.webp",
-        "videoCount": 52,
+        "title": "JavaScript零基础入门到精通200集",
+        "picUrl": "https://i1.hdslb.com/bfs/archive/e7cbffc06804d41d3ca818cbd807c437dda4d2f6.jpg@100w_100h_1c.png",
+        "videoCount": 200,
         "bvid": "BV1SQEEzNEYN"
       },
       
